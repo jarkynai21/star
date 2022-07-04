@@ -6,3 +6,4 @@ Pygments==2.12.0
 pytz==2022.1
 sqlparse==0.4.2
 whitenoise==6.2.0
+django-heroku==0.3.1
