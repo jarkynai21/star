@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'jaja96.herokuapp.com',
+    'tutorial.herokuapp.com',
 ]
 
 
