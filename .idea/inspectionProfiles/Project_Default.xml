@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="neolabs.list.print" />
+          <option value="neolabs.list.list" />
+          <option value="neolabs.list.sorted" />
+          <option value="neolabs.array.count" />
+          <option value="neolabs.array.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
